@@ -1606,27 +1606,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 61.75272941870758%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">77%</span>
+                            <div class="bar" style="width: 62.583151775099125%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">78%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 14.003422838595457%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">18%</span>
+                            <div class="bar" style="width: 13.49814839043648%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">17%</span>
                         </div>
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 2.8407199763942166%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">4%</span>
+                            <div class="bar" style="width: 2.738220520726081%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">3%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Python</span>
-                            <div class="bar" style="width: 1.0282679256417822%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.9911657460763512%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.3748598406609619%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.18931356766196605%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3087,7 +3087,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.609809514919455 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="54.613332454654994 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3416,7 +3416,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 17 Jun 2021 07:17:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated Thu, 17 Jun 2021 07:41:38 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
