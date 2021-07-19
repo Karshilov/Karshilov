@@ -1374,14 +1374,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.89039209611346" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="155.89039209611346" y="0" width="142.4744397397501" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="298.3648318358635" y="0" width="51.599710833419394" height="8" fill="#a91e50"/>
-                    <rect mask="url(#languages-bar)" x="349.96454266928293" y="0" width="35.715170918103894" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="385.6797135873868" y="0" width="24.697579951117078" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="410.37729353850386" y="0" width="24.530276429481223" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="434.90756996798507" y="0" width="12.92953285827395" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="447.83710282625907" y="0" width="12.162897173740921" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="155.95159978541335" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="155.95159978541335" y="0" width="142.44576412078206" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="298.39736390619544" y="0" width="51.58932543622519" height="8" fill="#a91e50"/>
+                    <rect mask="url(#languages-bar)" x="349.9866893424206" y="0" width="35.70798257867616" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="385.69467192109676" y="0" width="24.692609105866488" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="410.3872810269633" y="0" width="24.525339257162056" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="434.91262028412535" y="0" width="12.926930550390827" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="447.83955083451616" y="0" width="12.16044916548387" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -1606,22 +1606,22 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 69.96406930000356%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <div class="bar" style="width: 69.48004325721885%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             <span class="value">87%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 9.070189377319783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">11%</span>
+                            <div class="bar" style="width: 9.507638379594525%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">12%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.7826489108135991%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.8203955300873845%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.18309241186306016%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.19192283309923058%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3100,7 +3100,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.43481188237252 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="61.4392955852042 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g xmlns="http://www.w3.org/2000/svg" transform="translate(5 4)" fill="none" fill-rule="evenodd">
@@ -3429,7 +3429,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19/07/2021, 18:44 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
+                <span>Last updated 19/07/2021, 19:14 (timezone Asia/Shanghai) with lowlighter/metrics@3.11.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
