@@ -1683,13 +1683,18 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">Vue</span>
-                            <div class="bar" style="width: 61.077283372365336%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">76%</span>
+                            <div class="bar" style="width: 54.333333333333336%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">68%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 18.92271662763466%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">24%</span>
+                            <div class="bar" style="width: 16.833333333333332%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">21%</span>
+                        </div>
+                        <div class="entry">
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 8.833333333333332%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">11%</span>
                         </div>
                     </div>
                 </section>
@@ -3561,7 +3566,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 13/09/2021, 18:15 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0-beta</span>
+                <span>Last updated 13/09/2021, 18:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.14.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
