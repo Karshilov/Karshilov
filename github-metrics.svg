@@ -1754,27 +1754,27 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 67.60670532734154%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">85%</span>
+                            <div class="bar" style="width: 69.08952322878159%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">86%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 6.82019056853568%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 7.096307023895728%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 4.582595237651271%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">6%</span>
+                            <div class="bar" style="width: 2.8019360493921264%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CMake</span>
-                            <div class="bar" style="width: 0.6384605344123516%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.6524638896299402%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 0.35204833205914715%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3597698083006212%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
@@ -3694,7 +3694,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 3 Nov 2021, 01:43:40 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 3 Nov 2021, 02:16:35 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
