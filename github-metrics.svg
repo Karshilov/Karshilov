@@ -1809,43 +1809,43 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">C++</span>
-                            <div class="bar" style="width: 55.43937980703069%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
-                            <span class="value">69%</span>
+                            <div class="bar" style="width: 56.65125%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <span class="value">71%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 13.23200660560559%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">17%</span>
+                            <div class="bar" style="width: 11.772499999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">15%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 4.915059863300662%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 5.0225%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">6%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.754185843820242%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.8362499999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 1.237939418033915%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 1.2650000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">2%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CMake</span>
-                            <div class="bar" style="width: 0.523555406045964%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.535%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Sass</span>
-                            <div class="bar" style="width: 0.5039832413339653%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.515%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 0.39388981482897295%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">0%</span>
+                            <div class="bar" style="width: 0.4025%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">1%</span>
                         </div>
                     </div>
                 </section>
@@ -3750,7 +3750,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Nov 2021, 02:15:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0-beta</span>
+                <span>Last updated 8 Nov 2021, 02:43:08 (timezone Asia/Shanghai) with lowlighter/metrics@3.16.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
