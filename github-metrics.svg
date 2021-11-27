@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2344" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="2326" class="">
     <defs>
         <style/>
     </defs>
@@ -502,37 +502,32 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 56.175111188628236%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                            <div class="bar" style="width: 56.08218701027337%; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                             <span class="value">70%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">Rust</span>
-                            <div class="bar" style="width: 7.939304089997385%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">10%</span>
+                            <span class="name">RenderScript</span>
+                            <div class="bar" style="width: 10.050496256312032%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">13%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TSX</span>
-                            <div class="bar" style="width: 6.837010552018836%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 6.825700853212606%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">9%</span>
                         </div>
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 3.8091915932676375%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 3.8028904753613095%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">5%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Go</span>
-                            <div class="bar" style="width: 2.8254992587424783%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.820825352603169%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">RenderScript</span>
-                            <div class="bar" style="width: 1.9952908345687626%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">2%</span>
-                        </div>
-                        <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.4185924827766635%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.41790005223750654%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">1%</span>
                         </div>
                     </div>
@@ -2400,7 +2395,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 27 Nov 2021, 19:11:53 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
+                <span>Last updated 27 Nov 2021, 19:35:52 (timezone Asia/Shanghai) with lowlighter/metrics@3.17.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
